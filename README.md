@@ -18,7 +18,7 @@ Created for my C++ class in 2018, this small program simulates a theater seating
 
 # Usage
 
--Upon startup the program will attempt to load from 'rowPrice.dat' and 'seatingChart.dat'<br/>
+Upon startup the program will attempt to load from 'rowPrice.dat' and 'seatingChart.dat'<br/>
  If files not present it will load the default values<br/>
 -Program Main menu has 4 selection options...<br/>
   1 - Display Seating Chart: Allows you to view seating chart for available seats and current prices<br/>
