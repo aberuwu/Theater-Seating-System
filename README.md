@@ -12,7 +12,7 @@ Created for my C++ class in 2018, this small program simulates a theater seating
      
 # Specific Concepts Used
 
--Multi-dimentional arrays <br/>
+-Multidimensional arrays <br/>
 -ofstream <br/>
 -ifstream <br/>
 
