@@ -2,7 +2,7 @@
 Small C++ console program that simulates a theater seating system.  <br/>
 
 # Purpose and Usage
-Created for my Intro to C++ class in 2018, this small program simulates a theater seating system.<br/>
+Created for my C++ class in 2018, this small program simulates a theater seating system.<br/>
      -Allow user to load predifined seating scheme and seating prices from external .dat file.  <br/>
 		 -Allow user to 'purchase' seats.<br/>
 		 -Allow user to change prices by row.<br/>
