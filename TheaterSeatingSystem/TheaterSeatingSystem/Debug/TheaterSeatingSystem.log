@@ -1,0 +1,5 @@
+﻿  TheaterSeating.cpp
+c:\users\scooby2\desktop\theater seating system - c++\theaterseatingsystem\theaterseatingsystem\theaterseating.cpp(70): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\scooby2\desktop\theater seating system - c++\theaterseatingsystem\theaterseatingsystem\theaterseating.cpp(393): warning C4101: 'choice': unreferenced local variable
+c:\users\scooby2\desktop\theater seating system - c++\theaterseatingsystem\theaterseatingsystem\theaterseating.cpp(527): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  TheaterSeatingSystem.vcxproj -> C:\Users\Scooby2\Desktop\Theater Seating System - C++\TheaterSeatingSystem\Debug\TheaterSeatingSystem.exe
