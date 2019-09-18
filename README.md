@@ -14,7 +14,7 @@ Created for my Intro to C++ class in 2018, this small program simulates a theate
 
 -Multi-dimentional arrays <br/>
 -ofstream <br/>
--ifstreawm <br/>
+-ifstream <br/>
 
 # Usage
 
